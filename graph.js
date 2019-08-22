@@ -15,7 +15,7 @@ function initGraph(canvas, sim) {
             },
             responsive: false,
             animation: {
-                duration: 500
+                duration: 300
             }
         }
     });
