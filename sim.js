@@ -366,5 +366,5 @@ let MASS_AREA_CONVERSION = 1,
     GRID_SIZE = 200,
     FPS = 60,
     SPEED = 3,
-    TICK_RATE = 20,
+    TICK_RATE = 10,
     INITIAL_COMP = [[a, 2000], [b, 1000]];
