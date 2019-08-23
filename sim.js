@@ -367,4 +367,4 @@ let MASS_AREA_CONVERSION = 1,
     FPS = 60,
     SPEED = 3,
     TICK_RATE = 2,
-    INITIAL_COMP = [[a, 6000], [b, 6000]];
+    INITIAL_COMP = [[a, 4000], [b, 2000]];
