@@ -54,7 +54,7 @@ function initGraph(canvas, sim) {
             fill: false,
             borderColor: colours[i],
             backgroundColor: colours[i],
-            pointRadius: 2
+            pointRadius: 0
         };
     }
     c.update();
