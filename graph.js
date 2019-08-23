@@ -65,7 +65,7 @@ function initGraph(canvas, sim) {
         if (age <= 3000) {
             c.options.scales.xAxes[0].ticks.max = age;
             c.update();
-            if (age % 10 === 0) {
+            if (age % 50 === 0) {
                 let comp = sim.compositionHistory;
                 for (let i = 0; i < species.length; i++) {
                     if (!(age === undefined)) {
